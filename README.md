@@ -1,2 +1,2 @@
 # Advent-Of-Code-2025
-My solutions to the 2025 Advent of Code challenges in Python
+My solutions to the [2025 Advent of Code challenges](https://adventofcode.com/2025) in Python
